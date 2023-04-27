@@ -29,7 +29,7 @@ A more detailed but abstract overview: [Project overview](https://docs.papermc.i
 ### What server types can benefit from Folia?
 Server types that naturally spread players out, 
 like skyblock or SMP, will benefit the most from Folia. The server
-should have a sizeable player count, too.
+should have a sizeable player count, too.. 
 
 ### What hardware will Folia run best on?
 Ideally, at least 16 _cores_ (not threads).
